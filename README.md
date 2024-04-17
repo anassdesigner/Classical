@@ -9,11 +9,9 @@
 
 Like my works and want to support me?
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
 ---
 
-A `HTML, CSS` Project. Made with ♥ by the `web cifar community`. There will be 5 pages in the website (HomePage, MenuPage, AboutPage, ContactPage, BookingPage). In this project we gonna learn how we can create a website using simple `HTML, CSS`. The main purpose of the project is to get more used to with HTML, CSS. Although we used a few lines of JavaScript in the project for necessary cases. Later on, in this project, we gonna learn how we can deploy this site using `Netlify`. Also, we gonna learn the process from the zero to end and make the website ready for live production.
+A `HTML, CSS` Project. Made with ♥ by the `web cifar community`. There will be 6 pages in the website (HomePage, MenuPage, AboutPage, ContactPage, BookingPage, OrderPage). In this project we gonna learn how we can create a website using simple `HTML, CSS`. The main purpose of the project is to get more used to with HTML, CSS. Although we used a few lines of JavaScript in the project for necessary cases. Later on, in this project, we gonna learn how we can deploy this site using `Netlify`. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
 ## What we are going to learn
 
@@ -34,22 +32,19 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 ## Developer team of Shaif's Cuisine
 
-- Shaif Arfan
-- Anwar saeed
-- MD Moniruzzaman Sojol
-- Lovekesh Pal
-- Houmayan Rashid Chy
+- Anas Khan
+- Adil Khan
+- Meraj Alam
+- Sadab Ahmad
+- Abhishek yadav
 
 ## Tools Used
 
 1. icons - (flat & Feather icons)
-2. illustration - [https://storyset.com/](https://storyset.com/)
+2. illustration
 3. UI Design: Figma
 4. Code Editor: VS Code
 
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
 
 ## FAQ
 
@@ -57,9 +52,7 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [coming soon].
 
-### What i need to start the project?
 
-Just open your favorite code editor and follow along with the [YouTube Tutorial](https://youtu.be/4y-_3Ayiauw).
 
 ### Who the project is for?
 
@@ -67,12 +60,9 @@ The project is for the people who wanna get more skilled in HTML & CSS.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [@web_cifar](http://instagram.com/web_cifar)
+If you have any feedback, please reach out to us at ([http://instagram.com/web_cifar](https://www.instagram.com/anasss.designer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 
 ## Support
 
-For support, join our [Community Group](http://facebook.com/groups/webcifar).
+For support, ([http://facebook.com/groups/webcifar](https://www.instagram.com/anasss.designer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)).
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
