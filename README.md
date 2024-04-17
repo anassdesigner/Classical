@@ -1,14 +1,11 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Classical Restorent 👨‍🍳
 
-**Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
-
-**Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/anasss.designer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 Like my works and want to support me?
 
